@@ -2,7 +2,7 @@
 
 ## Author
 
-- Name: MIB
+- Name: N.Kugan
 - Project: SUBNET_CALCULATOR
 
 Built with Flask (Python) — no external JS frameworks needed.
