@@ -1,6 +1,9 @@
 # SUBNET_CALCULATOR
 
-A Python clone of https://www.davidc.net/sites/default/subnets/subnets.html
+## Author
+
+- Name: MIB
+- Project: SUBNET_CALCULATOR
 
 Built with Flask (Python) — no external JS frameworks needed.
 
@@ -197,8 +200,5 @@ pip install -r requirements.txt
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ```
 
-## Author
 
-- Name: MIB
-- Project: SUBNET_CALCULATOR
 
